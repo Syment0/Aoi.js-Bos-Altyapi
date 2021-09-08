@@ -1,3 +1,3 @@
 # Aoi.js-Bos-Altyapi
 ## NumZ Code
-### https://discord.gg/XmyR2mumxX
+### https://discord.gg/yYeUQUv5aP
