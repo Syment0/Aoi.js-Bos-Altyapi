@@ -1,7 +1,7 @@
 const aoijs = require('aoi.js');
 const bot = new aoijs.Bot({
 	token: "", //Token
-	prefix: [''] // Prefix
+	prefix: ['!'] // Prefix
 });
 
 bot.onMessage();
